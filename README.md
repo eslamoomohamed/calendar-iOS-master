@@ -48,5 +48,3 @@ It utilizes time slots in order to create every appointment. Every time slots is
 This app was built using:
 - [JTLAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)
 
-## Author
-Written by Agustin Mendoza. You can [find me on Twitter.](https://twitter.com/agustinoromo)
